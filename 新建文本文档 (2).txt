@@ -1,0 +1,44 @@
+ssh-keygen -t rsa -C "13750020744@163.com"
+
+
+http://www2.hxinside.com:9993/sp_r2/spmo/updateSpAddressThree?address= &terminal=android&smallareaid=497&username=很健康&area=南岗区&id=f0a63cf6699b4519b496905ed89dbfa8&version=1.01&city=哈尔滨市&smallareas=华轩美景&province=黑龙江省&mobilephone=13510526233&userinfoid=b47b76782ebf49789590c62a1949d45b
+
+
+
+64c8b1e43d8ba3115ab40bcea57f010b
+64c8b1e43d8ba3115ab40bcea57f010b
+
+
+19e138587de4be4cd7d78113adab46ef
+
+19e138587de4be4cd7d78113adab46ef
+19e138587de4be4cd7d78113adab46ef
+
+
+"ids" -> "14395,14394,14393,14392,"
+http://localhost:9993/sp_r2/spmo/updateSpAddressThree?address=测试数据&terminal=android&smallareaid=497&username=很健康&area=南岗区&id=f11da893385248c58a4b0d50f0cdb1ca&version=1.01&city=哈尔滨市&smallareas=华轩美景&province=黑龙江省&mobilephone=13510526233&userinfoid=b47b76782ebf49789590c62a1949d45b
+
+
+
+
+
+C:\Program Files (x86)\JetBrains\IntelliJ IDEA 2017.1\lib\idea.jar!\resources\html5-schema\html5\aria.rnc
+
+
+C:\Program Files (x86)\Common Files\NetSarang;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;%M2_HOME%\bin;D:\svn\bin;C:\Program Files\Git\cmd;C:\Program Files (x86)\scala\bin
+
+C:\Program Files (x86)\Common Files\NetSarang;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\;%JAVA_HOME%\bin;%JAVA_HOME%\jre\bin;%M2_HOME%\bin;D:\svn\bin;C:\Program Files\Git\cmd;E:\scalasdk\bin;
+
+Microsoft Windows [版本 6.1.7601]
+版权所有 (c) 2009 Microsoft Corporation。保留所有权利。
+
+C:\Users\Administrator>scala
+此时不应有 \scala\bin\..\lib\jline-2.14.5.jar。
+
+C:\Users\Administrator>scala -version
+此时不应有 \scala\bin\..\lib\jline-2.14.5.jar。
+
+C:\Users\Administrator>scala
+此时不应有 \scala\bin\..\lib\jline-2.14.5.jar。
+
+C:\Users\Administrator>scala -version
