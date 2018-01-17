@@ -1,5 +1,3 @@
-package main.scala
-
 /**
   * for 循环
   */
@@ -65,7 +63,7 @@ object ForCycle {
     val ints4 = arr.filter(m=>m%2==0).map(x=>x*10)
     for(c <-ints4)println(c)
 
-
+    //测试测试
 
 
 
